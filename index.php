@@ -27,7 +27,7 @@
 </body>
 </html>
 <?php
-
+$str="";
 
     if(!empty($_POST['countryname'])){
         $str = $_POST['countryname'];
