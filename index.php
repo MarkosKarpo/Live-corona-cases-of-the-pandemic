@@ -27,7 +27,7 @@
 </body>
 </html>
 <?php
-$str="";
+
 
     if(!empty($_POST['countryname'])){
         $str = $_POST['countryname'];
@@ -55,6 +55,11 @@ $str="";
     echo "<span style class='words'>Recovered : </span>" . $elements->item(6)->nodeValue . "<br>";
     echo "<div>";
 
+//$data = $dom->find('div[class=maincounter-number] span');
+//
+//    echo "Coronavirus Cases: ".$data[0]->plaintext."<br>";
+//    echo "Deaths: ". $data[1]->plaintext."<br>";
+//    echo "Recovered: ". $data[2]->plaintext."<br>";
 
 ?>
 
