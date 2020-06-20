@@ -18,12 +18,6 @@
     </form>
 </div>
 
-<div class="container text-center" style = "position : absolute ; top : 75% ; left : 8%">
-    <h2 class='btn btn-success'>Stay Home | Stay Safe | Save Lives</h2>
-    <br>
-    <br>
-    <h3>Designed And Developed By Pankaj Panjwani</h3>
-
 </div>
 </body>
 </html>
