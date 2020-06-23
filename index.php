@@ -49,8 +49,6 @@ function abc($str)
 //$elements = $DOM->getElementsByClassName("maincounter-number");
     $elements = $DOM->getElementsByTagName('span');
 
-
-
     /*for($i=4;$i<7;$i++)
     {
      echo $elements->item($i)->nodeValue . "<br>";
